@@ -1,0 +1,1 @@
+# Pi config.txt für 21:9 2560x1080p
